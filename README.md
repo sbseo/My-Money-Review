@@ -1,4 +1,4 @@
-# My-Money-Review
+# Share-Your-Purchase
 Mean Stack을 이용한 경제활동 공유 앱! 
 
 <hr>
